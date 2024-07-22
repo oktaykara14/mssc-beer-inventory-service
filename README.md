@@ -1,3 +1,4 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/oktaykara14/mssc-beer-inventory-service/tree/java17.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/oktaykara14/mssc-beer-inventory-service/tree/java17)
 # MSSC Beer Inventory Service
 
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
